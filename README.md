@@ -1,7 +1,7 @@
 360-Pad-Viewer
 ==============
 
-A tool that allows you to visualize your gamepad.
+A tool that allows you to visualize your gamepad for livestreaming.
 It works with the XBox 360 Pad for PC and Logitech Gamepads but
 it can also be tweaked to work with other devices.
 
@@ -9,13 +9,13 @@ Download
 ========
 
 The download link can be found <a href="bin/xbox_viewer.zip">here</a>.<br>
-For installation simply extract the zip file to your hardrive and run the programm.
+For installation simply extract the zip file to your hardrive and then run the programm.
 Make sure you dont change the folder structure, otherwise the programm might not run properly.
 
 Development
 ===========
 
-To build the project you need
+If you want to develop your own version you will need
 * pygame
 * py2exe
 
