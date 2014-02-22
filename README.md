@@ -8,7 +8,7 @@ it can also be tweaked to work with other devices.
 Download
 ========
 
-The download linke can be found <a href="https://github.com/lplath/360-Pad-Viewer/blob/master/bin/xbox_viewer.zip">here</a>.<br>
+The download link can be found <a href="bin/xbox_viewer.zip">here</a>.<br>
 For installation simply extract the zip file to your hardrive and run the programm.
 Make sure you dont change the folder structure, otherwise the programm might not run properly.
 
