@@ -1,0 +1,25 @@
+[settings]
+# If you have multiple controllers plugged in,
+# you can chose which one should be recognised
+# DEFAULT = 0
+ID = 0
+
+# If your controllers has a different button layout,
+# you can change it here.
+# DEFAULT = 1,2,3,..
+
+A = 0
+B = 1
+X = 2
+Y = 3
+LB = 4
+RB = 5
+BACK = 6
+START = 7
+
+# Keep in mind, that your controller will probably only have 4 or 5 axes
+
+LX = 0
+LY = 1
+RX = 5
+RY = 4
