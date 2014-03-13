@@ -20,8 +20,7 @@ fit your gamepad. To do so you need to modify the 'config.txt' file which is loc
 The following problems could occur:
 ----------------------------------
 
-The program crashes immediately
--------------------------------
+**The program crashes immediately**
 Your gamepad only has a limited number of analog axes. Therefore make sure that 'LX', 'RX', etc. are set to an          appropriate number. You could even set them all to '0' and see, if the error still occurs.
 
 The viewer doesn't respond to your gamepad
