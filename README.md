@@ -16,7 +16,9 @@ Setting up
 ==========
 Although the viewer should run with any gamepad, you might want to configure the key bindings to
 fit your gamepad. To do so you need to modify the 'config.txt' file which is located next to the executable.
-The following problems could occur
+
+The following problems could occur:
+----------------------------------
 
 The program crashes immediately
 -------------------------------
